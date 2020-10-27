@@ -1,4 +1,4 @@
-# DS_SalaryProject
+# Data Science Salary Estimator: Project Overview
 
 ## Acknowledgements
 
