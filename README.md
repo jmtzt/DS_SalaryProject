@@ -1,4 +1,4 @@
-# Data Science Salary Estimator: Project Overview
+# Data Science Salary Estimator for Data Science Job Positions: Overview
 
 ## Acknowledgements
 
