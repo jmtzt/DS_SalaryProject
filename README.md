@@ -57,7 +57,7 @@ In this step I explored the distribution of the data and the value counts for al
 ![alt text](images/salary_by_job_title.png "Salary by Position")
 ![alt text](images/positions_by_state.png "Job Opportunities by State")
 ![alt text](images/correlation_visual.png "Correlations")
-![alt text](wordcloud.jpeg "Wordcloud for the most relevant words in job descriptions"){:height="36px" width="36px"}.
+![alt text](images/rsz_wordcloud.jpg "Wordcloud for the most relevant words in job descriptions")
 
 ## Model Building
 
