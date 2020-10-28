@@ -7,12 +7,12 @@
 * Developed a client facing API using Flask
 
 
-# Code and Resources
+## Code and Resources
 
 **Packages**: Pandas, numpy, sklearn, matplotlib, seaborn, flask, selenium, json, pickle. 
 Every package used in this project can be found in the requirements.txt file and can be installed by running: > pip install -r requirements.txt
 
-# Dataset description
+## Dataset description
 
 Our dataset contains the following entries:
 *	Job title
@@ -30,7 +30,7 @@ Our dataset contains the following entries:
 *	Revenue
 *	Competitors 
 
-# Data Cleaning
+## Data Cleaning
 
 Right after obtaining the data, I needed to clean it in order to be usable for our prediction model. Hence, the following changes were made:
 
@@ -50,7 +50,7 @@ Right after obtaining the data, I needed to clean it in order to be usable for o
 *	Column for description length of the job offer 
 *	Removed rows without salary 
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
 In this step I explored the distribution of the data and the value counts for all the categorical variables available. In the following images there are a few highlights obtained from pivot tables.
 
@@ -58,7 +58,7 @@ In this step I explored the distribution of the data and the value counts for al
 ![alt text](images/positions_by_state.png "Job Opportunities by State")
 ![alt text](images/correlation_visual.png "Correlations")
 
-# Model Building
+## Model Building
 
 The first thing done in this process was transforming the categorical variables into dummy variables. Right after that I also split the dataset into train and test sets with a proportion of 80/20.
 
@@ -72,7 +72,7 @@ Three main models were considered and evaluated using MAE (Mean Absolute Error) 
 
 The last step of this project was to build a Flask API endpoint that was hosted on a local webserver. The API takes in a request with a list of values from a job listing and returns an estimated salary for that particular entry.
 
-# Acknowledgements
+## Acknowledgements
 
 * [Data Scraping with Selenium](https://towardsdatascience.com/selenium-tutorial-scraping-glassdoor-com-in-10-minutes-3d0915c6d905)
 * [Flask Productionization](https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2)
