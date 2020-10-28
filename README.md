@@ -1,4 +1,4 @@
-# Data Science Salary Estimator for Data Science Job Positions
+# Salary Estimator for Data Science Job Positions
 
 * In this project I created a tool that estimates data science salaries with a Mean Average Error of about $14K, in order to help data scientists estimate their salary based on the job description.
 * Used data scraping to obtain the dataset from glassdoor job descriptions using python and selenium.
