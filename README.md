@@ -54,9 +54,9 @@ Right after obtaining the data, I needed to clean it in order to be usable for o
 
 In this step I explored the distribution of the data and the value counts for all the categorical variables available. In the following images there are a few highlights obtained from pivot tables.
 
-![alt text](../master/images/salary_by_job_title.PNG "Salary by Position")
-![alt text](../master/images/positions_by_state.png "Job Opportunities by State")
-![alt text](../master/images/correlation_visual.png "Correlations")
+![alt text](images/salary_by_job_title.PNG "Salary by Position")
+![alt text](images/positions_by_state.png "Job Opportunities by State")
+![alt text](images/correlation_visual.png "Correlations")
 
 # Model Building
 
